@@ -1,4 +1,7 @@
-Multi-signature Wallet Requiring Multiple Approvals for Transactions
+
+**Multi-signature Wallet Requiring Multiple Approvals for Transactions
+**
+
 Project Description
 The Multi-signature Wallet is a secure smart contract that requires multiple owner approvals before executing any transaction. This decentralized wallet solution eliminates single points of failure by distributing control among multiple trusted parties. Each transaction must be proposed by one owner and confirmed by a predetermined number of other owners before execution.
 
